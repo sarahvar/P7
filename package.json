@@ -1,0 +1,22 @@
+{
+  "name": "p7-kasa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahvar/P7-Kasa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahvar/P7-Kasa/issues"
+  },
+  "homepage": "https://github.com/sarahvar/P7-Kasa#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
